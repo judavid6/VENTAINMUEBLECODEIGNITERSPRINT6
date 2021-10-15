@@ -1,0 +1,14 @@
+gioangil@gmail.com
+
+vector_correo = explode("@", $correo;);
+
+site_url('c_verinmuebles/emailpost')."/".$vector_correo[0]."/".$vector_correo[1]; ?>"
+
+
+
+
+Controladr
+
+emailpost($email = NULL, $otrparte=null){
+
+$emailcompleto = $mail."@".$otrparte;
